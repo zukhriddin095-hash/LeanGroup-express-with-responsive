@@ -1,0 +1,25 @@
+.command h3 {
+	font-family: Montserrat;
+	font-weight: 600;
+	font-style: SemiBold;
+	font-size: 32px;
+	line-height: 40px;
+	letter-spacing: 0px;
+	text-align: center;
+	vertical-align: middle;
+	color: #2c2d2e;
+}
+.command h3 span {
+	color: #ef7c00;
+}
+.command-btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.commonds-cards {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 30px;
+}

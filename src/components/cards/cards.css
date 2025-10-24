@@ -1,0 +1,45 @@
+.card {
+	margin-bottom: 32px;
+	max-width: 203px;
+	height: 100%;
+}
+.card-img img {
+	width: 100%;
+}
+.card-title-avo h3 {
+	margin-top: 12px !important;
+	margin-bottom: 4px !important;
+	font-family: Montserrat;
+	font-weight: 500;
+	font-style: Medium;
+	font-size: 15px !important;
+	line-height: 20px;
+	letter-spacing: 0px;
+	text-align: center;
+	vertical-align: middle;
+	color: #2c2d2e;
+}
+.card-title-avo p {
+	margin-bottom: 16px;
+	font-family: Montserrat;
+	font-weight: 500;
+	font-style: Medium;
+	font-size: 13px;
+	line-height: 13px;
+	letter-spacing: 0px;
+	text-align: center;
+
+	color: #919399;
+}
+.card-title-avo a {
+	display: block;
+	margin-bottom: 8px;
+	font-family: Montserrat;
+	font-weight: 500;
+	font-style: Medium;
+	font-size: 13px;
+	line-height: 13px;
+	letter-spacing: 0px;
+	text-align: center;
+	color: #2c2d2e;
+}

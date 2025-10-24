@@ -1,0 +1,54 @@
+.news h3 {
+	margin-bottom: 16px;
+	font-family: Montserrat;
+	font-weight: 600;
+	font-style: SemiBold;
+	font-size: 32px;
+	line-height: 40px;
+	letter-spacing: 0px;
+	text-align: center;
+	vertical-align: middle;
+	color: #2c2d2e;
+}
+.news-btn {
+	margin-top: 32px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.news-cards {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 30px;
+}
+.news-card img {
+	width: 100%;
+}
+.news-card p {
+	font-family: Montserrat;
+	font-weight: 500;
+	font-style: Medium;
+	font-size: 13px;
+	line-height: 13px;
+	letter-spacing: 0px;
+	color: #919399;
+}
+.news-card h5 {
+	font-family: Montserrat;
+	font-weight: 500;
+	font-style: Medium;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0px;
+	vertical-align: middle;
+
+	color: #2c2d2e;
+}
+
+@media (max-width: 650px) {
+	.news-cards {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+}
